@@ -7,6 +7,7 @@ etex
 
 beginfig(0);
 
+%Rekursion
 vardef tree(expr punktstart,punktslut,n)=
 save punkta,punktb;
 pair punkta,punktb;
